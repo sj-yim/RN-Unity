@@ -26,7 +26,7 @@ android:theme="@style/UnityThemeSelector" 삭제 (없을 수도 있음)
 
 //    implementation(name: 'support-v4-27.1.1', ext:'aar')
 
-주석처리 / 삭제 (없을 수도 있음)
+주석처리 / 삭제 (유니티 버전에따라 없을 수도 있음)
 
 ## 6. RN-Unity/EmptyRN/android/app/src/main/ 디렉토리에 "assets" 폴더 생성
 
