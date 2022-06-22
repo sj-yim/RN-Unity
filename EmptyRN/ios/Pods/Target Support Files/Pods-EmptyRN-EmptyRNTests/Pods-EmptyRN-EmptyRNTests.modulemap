@@ -1,0 +1,6 @@
+module Pods_EmptyRN_EmptyRNTests {
+  umbrella header "Pods-EmptyRN-EmptyRNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
