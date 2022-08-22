@@ -52,3 +52,4 @@ npm run android 혹은 npx react-native run-android
 - RN-Unity/EmptyRN/android/build.gradle 에서 ndk 버전 21.3.6528147로 수정
 - local.properties 에서 ndk.dir=/Applications/Unity/Hub/Editor/2022.1.0b16/PlaybackEngines/AndroidPlayer/NDK  Unity/Hub/Editor/ 안에있는 폴더 이름 확인 후 다를 시 변경
 - local.properties 에서 ndk.dir=/Applications/Unity/Hub/Editor/2022.1.0b16/PlaybackEngines/AndroidPlayer/NDK 21.3.6528147버전 ndk 다운로드 받아서 붙혀넣기
+- Android Studio 프로젝트 설정 확인
